@@ -3,7 +3,7 @@
 People can communicate to us via our website and you can find all the information that you need on there if not they are welcome to contact us at anytime!</p>
 
 <h2>UX</h2>
-This website is for a Forever Young, With in this website i wanted to be a simplistic website and that can be easily navigateda around it.
+This website is for a Forever Young, with in this website i wanted to be a simplistic website and that can be easily navigateda around it.
 
 In this project I have provided that by making a singpel page website with most off the features that I have learned, the header allows you to flow easy throught the website
 so you don't have to scroll down to the area, meaning that you can just click the bottom and it will take you to the area that you want to see.
@@ -11,7 +11,7 @@ so you don't have to scroll down to the area, meaning that you can just click th
 I added a pricing list so that they don't have to ask us how the system works it's displayed to them just by a click of a button.
 
 <h2>Features</h2>
-When you open open the website the first thing you will see is a carousel with flowing images of people excersing
+When you open open the website the first thing you will see is a carousel with flowing images of people exercising
 
 If you scroll down you will come across 2 reviews that we have showcased on the website for people to read and see what there experience was like after being with us for 3 months.
 
